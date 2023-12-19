@@ -92,6 +92,7 @@ Before running the program, please follow these steps:
 
 With these preparations, your program should be ready to run without modifications to files or folders.
 
+Please download glove.6B.200d.txt file [here](https://www.kaggle.com/datasets/incorpes/glove6b200d)
 
 ## Authors
 
